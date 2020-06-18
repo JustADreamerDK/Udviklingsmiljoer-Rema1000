@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Rema1000.Models;
 
 namespace Rema1000.Models
 {
